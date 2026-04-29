@@ -1,0 +1,1 @@
+{\n  "name": "djerba-live-assistant",\n  "version": "1.0.0",\n  "scripts": {\n    "start": "vite",\n    "build": "vite build",\n    "dev": "vite"\n  },\n  "dependencies": {\n    "react": "^17.0.2",\n    "react-dom": "^17.0.2",\n    "tailwindcss": "^2.2.19"\n  },\n  "devDependencies": {\n    "vite": "^2.6.14"\n  }\n}
